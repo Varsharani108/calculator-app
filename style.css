@@ -1,0 +1,37 @@
+.heading{
+    text-align: center;
+  
+    font-family: 'Roboto',sans-serif;
+    font-weight: normal;
+}
+.container{
+   
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+
+    
+}
+.button{
+    height: 50px;
+    width: 50px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: aqua;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+.row{
+    margin: 8px 0;
+}
+.input{
+    border: 2px solid black;
+    font-size: 25px;
+    height: 60px;
+    width: 220px;
+
+}
